@@ -1,0 +1,61 @@
+{
+	"pages": [
+	  {
+		"path": "pages/index/b",
+		"style": {
+		  "navigationBarTitleText": "百科"
+		}
+	  },
+	  {
+		"path": "pages/index/a",
+		"style": {
+		  "navigationBarTitleText": "我的"
+		}
+	  },
+	  {
+		"path": "pages/index/c",
+		"style": {
+		  "navigationBarTitleText": "社区"
+		}
+	  },
+	  {
+		"path": "pages/index/d",
+		"style": {
+		  "navigationBarTitleText": "项目简介"
+		}
+	  }
+	],
+	"tabBar": {
+	  "color": "#333333",
+	  "selectedColor": "#007aff",
+	  "backgroundColor": "#ffffff",
+	  "borderStyle": "black",
+	  "list": [
+		{
+		  "pagePath": "pages/index/b",
+		  "text": "百科",
+		  "iconPath": "static/a.jpg",
+		  "selectedIconPath": "static/a.jpg"
+		},
+		{
+		  "pagePath": "pages/index/a",
+		  "text": "我的",
+		  "iconPath": "static/a.jpg",
+		  "selectedIconPath": "static/a.jpg"
+		},
+		{
+		  "pagePath": "pages/index/c",
+		  "text": "社区",
+		  "iconPath": "static/a.jpg",
+		  "selectedIconPath": "static/a.jpg"
+		}
+	  ]
+	},
+	"globalStyle": {
+	  "navigationBarTextStyle": "black",
+	  "navigationBarTitleText": "uni-app",
+	  "navigationBarBackgroundColor": "#F8F8F8",
+	  "backgroundColor": "#F8F8F8"
+	}
+  }
+  
